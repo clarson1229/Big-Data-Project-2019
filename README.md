@@ -3,3 +3,6 @@ Big Data Project for 5590
 
 Project proposal 
 https://docs.google.com/document/d/1-RJVEvQQd5MT-zF27YlwL6i7UavF7BlXrzTG31jWpdw
+
+Iteration 1 
+https://docs.google.com/document/d/1m7IHrLo-ugXsG5CEqt-H0cK7rT_RRh1T1BHa1muypmk/edit
